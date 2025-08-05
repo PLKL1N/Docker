@@ -1,6 +1,7 @@
 # Docker
 ---
 ## Install docker
+
 ### Amazon Linux 2
 ```
 yum install -y docker
